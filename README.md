@@ -52,9 +52,3 @@ for each suburb (7 Aug - 25 Sep 2026), keeping only listings with a disclosed sa
 Part 1 of the notebook for data quality notes and limitations (price-disclosure bias, missing
 area values, confounding between suburb and property type, short collection window).
 
-## GenAI use
-
-Generative AI (Claude, Anthropic) supported roughly 20-30% of this submission - code structuring,
-research, and quality checking - and was also directly used as the "LLM" arm of the Part 5
-comparison, as permitted by the assignment brief. All data collection, analysis, interpretation
-and write-up were completed independently, per the GenAI acknowledgement in the notebook.
